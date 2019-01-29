@@ -1,0 +1,41 @@
+/*EXERCISE2*/
+/*Start with the included HTML file problem2_cw.html. */
+/*Create an external CSS file called problem2_cw.css and create selectors to style the HTML as follows:*/
+/*Give the p tags a gray background, and a right margin of 10%.*/
+
+p{
+    background: gray;
+    margin-right: 10px;
+}
+
+.secondParagraph{
+    background-color: blue;
+    text-align: center;
+}
+
+.date{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.post{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.quote{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.newSpan{
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    border: 3px dashed;
+    text-align: justify;
+}

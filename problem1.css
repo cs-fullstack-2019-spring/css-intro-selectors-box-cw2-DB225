@@ -1,0 +1,29 @@
+/*EXERCISE 1*/
+/*Create a new HTML file called problem1_cw.html, and copy the code below into the <body> of your HTML file.*/
+/*Create an external CSS file called problem1.css and link it to your HTML file*/
+/*Add CSS selector to make the h1 tags red, padded on all sides by 20px, and display 25% from the left side of the web page*/
+                                                                                           /*Add CSS selector to make the h2 tags blue and have a 1px border*/
+                                                                                       /*Add a CSS selector and use it to make all instances of the word 'better' green with a font-weight of bold*/
+
+/*for h1*/
+.changeh1{
+    color: red;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 25%;
+}
+
+/*for h2*/
+.changeh2{
+    color: blue;
+    border: 1px;
+}
+
+/*change the word 'BETTER' */
+.changeBetter{
+    color: green;
+    font-weight: bold;
+}
+
